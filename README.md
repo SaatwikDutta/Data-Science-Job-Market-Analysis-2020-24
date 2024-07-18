@@ -1,4 +1,4 @@
-# Data Science Job Market 2020-24
+![image](https://github.com/user-attachments/assets/ed59ca20-5d2b-4dbf-bde0-6b3f4a93d5f6)# Data Science Job Market 2020-24
 
 This repository contains a comprehensive analysis of the data science job market trends from 2020 to 2024. The project aims to provide insights into the growth and demand in the field of data science over this period.
 
@@ -33,10 +33,9 @@ The analysis was conducted using the following tools and technologies:
 
 The Tableau dashboard below provides a visual summary of the key findings from the analysis.
 
-![Tableau Dashboard](![Uploading image.png…]()
-)
+![Tableau Dashboard](![image](https://github.com/user-attachments/assets/491a3896-c05c-4503-877b-387449b48595))
 
-[View the interactive Tableau Dashboard]([![image](https://github.com/user-attachments/assets/8f365796-63bc-4640-a1a2-2ce5935395ea)](https://public.tableau.com/app/profile/saatwik.dutta/viz/DataScienceJobMarketAnalysisfrom2020-24/Dashboard4?publish=yes))
+[View the interactive Tableau Dashboard]((https://public.tableau.com/app/profile/saatwik.dutta/viz/DataScienceJobMarketAnalysisfrom2020-24/Dashboard4?publish=yes))
 
 
 ## Usage
