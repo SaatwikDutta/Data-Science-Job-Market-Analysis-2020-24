@@ -33,7 +33,8 @@ The analysis was conducted using the following tools and technologies:
 
 The Tableau dashboard below provides a visual summary of the key findings from the analysis.
 
-![Tableau Dashboard](![image](https://github.com/user-attachments/assets/d0bb8cea-37bd-417b-a093-bbbaa578c867))
+![Tableau Dashboard](![Uploading image.png…]()
+)
 
 [View the interactive Tableau Dashboard]([![image](https://github.com/user-attachments/assets/8f365796-63bc-4640-a1a2-2ce5935395ea)](https://public.tableau.com/app/profile/saatwik.dutta/viz/DataScienceJobMarketAnalysisfrom2020-24/Dashboard4?publish=yes))
 
