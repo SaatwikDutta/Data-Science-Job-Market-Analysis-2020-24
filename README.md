@@ -26,7 +26,6 @@ The analysis was conducted using the following tools and technologies:
 - **Python**: For data analysis, and visualization.
 - **Pandas**: For data manipulation.
 - **Matplotlib/Seaborn**: For data visualization.
-- **Scikit-learn**: For predictive modeling.
 - **Tableau**: For creating interactive dashboards.
 
 ## Visualizations
